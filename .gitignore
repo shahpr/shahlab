@@ -1,6 +1,8 @@
 # Compiled site
 _site/
 
+s3_website.yml
+
 # Projects
 projects/
 !projects/index.html
