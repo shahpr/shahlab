@@ -1,5 +1,6 @@
 # The Shah Lab Website
 
+The website is live [here](http://theshahlab.org)
 
 Our new lab website has been directly inspired (in fact, borrowed) from [Trevor Bedford's](http://bedford.io) website. We have used Trevor's GitHub [code](https://github.com/blab/blotter) with minimal modifications. We were also inspired by several stylistic aspects of [Allan Drummond's](http://drummondlab.org/) labpage. 
 
