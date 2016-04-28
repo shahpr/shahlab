@@ -9,7 +9,7 @@ volume: 108
 issue: 25
 pages: 10231-10236
 authors: "Shah P and Gilchrist MA."
-image: /images/papers/shah-cub-treff.jp2
+image: /images/papers/shah-cub-treff.png
 redirect_from: 
 fulltext: 
 pdf: /pdfs/papers/Shah_PNAS_2011.pdf
