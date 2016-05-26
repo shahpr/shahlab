@@ -2,9 +2,9 @@
 layout: paper
 title: "Epistasis and the dynamics of reversion in molecular evolution."
 year: "2016"
-ref: "McCandlish <i>et al. bioRxiv</i> 2016"
+ref: "McCandlish <i>et al. Genetics</i> 2016"
 nickname: epistasis-reversion
-journal: "bioRxiv"
+journal: "Genetics"
 volume:
 issue: 
 pages: 
@@ -12,13 +12,13 @@ authors: "McCandlish DM, Shah P, and Plotkin JB."
 image: /images/papers/mccandlish-reversion.png
 redirect_from: 
 fulltext: 
-pdf: /pdfs/papers/McCandlish_bioRxiv_2016.pdf
+pdf: /pdfs/papers/McCandlish_Genetics_2016.pdf
 pdflink: 
 github: 
 pmid: 
 pmcid: 
 f1000: 
-doi: 10.1101/042895
+doi: 10.1534/genetics.116.188961
 dryad_doi: 
 altmetric_id: 
 figshare: 
