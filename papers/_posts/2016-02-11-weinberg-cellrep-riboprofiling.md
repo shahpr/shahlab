@@ -12,8 +12,8 @@ authors: "Weinberg DE*, Shah P*, Eichhorn SW, Hussmann JA, Plotkin JB, and Barte
 image: /images/papers/weinberg-translation.png
 redirect_from: 
 fulltext: 
-pdf: /pdfs/papers/Weinberg_CellRep_16.pdf
-supplement: /pdfs/papers/Weinberg_CellRep_16_s.pdf
+pdf: /pdfs/papers/Weinberg_CellRep_2016.pdf
+supplement: /pdfs/papers/Weinberg_CellRep_2016_s.pdf
 pdflink: 
 github: https://github.com/shahpr/SMoPT
 github_n: SMoPT
