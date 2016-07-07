@@ -5,9 +5,9 @@ year: "2016"
 ref: "McCandlish <i>et al. Genetics</i> 2016"
 nickname: epistasis-reversion
 journal: "Genetics"
-volume:
-issue: 
-pages: 
+volume: 203
+issue: 3
+pages: 1335-1351
 authors: "McCandlish DM, Shah P, and Plotkin JB."
 image: /images/papers/mccandlish-reversion.png
 redirect_from: 
@@ -15,7 +15,7 @@ fulltext:
 pdf: /pdfs/papers/McCandlish_Genetics_2016.pdf
 pdflink: 
 github: 
-pmid: 
+pmid: 27194749
 pmcid: 
 f1000: 
 doi: 10.1534/genetics.116.188961
