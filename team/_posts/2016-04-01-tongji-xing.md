@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Tongji Xing
-position: Rotation Student
+position: Graduate Student
 handle: txing
 email: xtj87515@gmail.com
 twitter: tjx87515

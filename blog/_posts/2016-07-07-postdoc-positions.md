@@ -6,4 +6,38 @@ author: Premal Shah
 image: 
 ---
 
-We are recruiting two individuals to join our group as postdocs. To get a sense of what being a postdoc in the Shah Lab entails, check out our [ad](/misc/join/).
+#### We are looking for a brilliant, motivated, and adventurous individual to join the Shah Lab as postdoctoral researcher.
+
+### What we do:
+We generate high-throughput genomic datasets and use computational models to study
+
+1. How patterns of gene expressions evolve and how various factors influence the dynamics of protein synthesis.
+2. How epistatic interactions between mutations affect protein evolution.
+
+### What will you get to do:
+We are not looking for someone to work on specific projects ongoing in the lab. Rather,
+you will have the freedom to work on your best ideas that are aligned with the lab’s research focus. You will also have several opportunities to collaborate with researchers both at Rutgers and elsewhere on your ideas and other projects of mutual interests. In addition, you will have opportunities to co-teach a class as well as mentor students, if you so desire.
+
+Finally, you will get the resources and support to develop your own research program as you plan to move to the next stage of your career.
+
+### What is expected of you:
+Good writing and speaking skills to communicate and convince others of your research ideas, and a drive to see them to completion. You should be willing to collaborate freely and be open to give/take constructive criticism. You should also be willing to teach/share tricks and tools you picked up in grad school with the rest of the group. 
+
+### What to expect:
+**Environment:**
+A fun, supportive environment - both in the lab and the Genetics department. Lab and office space in a fancy new-ish building and quiet workspaces when needed.
+
+**Coffee:**
+Coffee is serious business in the lab (see [here](/news/coffee-machine/)). You will have access to the finest beans from micro-roasters across the country for amazing espressos, lattes and pour-overs. Because we are an inclusive bunch, tea drinkers will also be tolerated.
+
+**Compensation:**
+Let’s face it, postdoc pay sucks. Salaries will be based on NIH scales with some flexibility depending on the funding level of the lab at the time. In addition to medical and life insurance you will also get not-too-shabby retirement benefits.
+
+**Advice/Mentoring/Support:**
+In addition to being your scientific mentor, my primary responsibilities would be towards your personal and professional growth. You will always find an audience to discuss opportunities and challenges, and a strong advocate for your interests.
+
+### Desired Qualifications:
+A Ph.D. in evolution, genetics, or statistics. In rare cases we will also consider individuals with a Ph.D.  in mathematics or physics.
+
+### How to apply:
+Fill out the application form [here](https://goo.gl/sNO5pq)
