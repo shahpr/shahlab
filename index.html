@@ -9,13 +9,15 @@ categories:
 
 <div class="row">
 	<div class="col-md-12">
-<!--		<object class="pull-left biglogo" data="/images/logo.svg" type="image/svg+xml"></object> 
+<!--
+		<object class="pull-left biglogo" data="/images/logo.svg" type="image/svg+xml"></object> 
         <div class="bigtitle">
         Shah Lab
-        </div>-->
-        <div>
-            <img class="img-responsive center col-md-6" src="/images/shahlab_logo.png">
         </div>
+-->
+		<div>
+			<img class="img-responsive center " src="/images/shahlab_translation.jpg">
+		</div>
 	</div>				
 </div>
 
@@ -38,7 +40,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">
-			{% for post in site.categories.blog limit:8 %}
+			{% for post in site.categories.blog limit:6 %}
 			
 				{% for member in site.categories.team %}
 					{% if member.title == post.author %}
@@ -74,7 +76,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">		
-			{% for paper in site.categories.papers limit:8 %}
+			{% for paper in site.categories.papers limit:5 %}
 				<div class="note">
 					<i class="fa fa-file-text fa-fw"></i>
 					<a class="off" href="{{ paper.url }}">
@@ -98,7 +100,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">
-			{% for post in site.categories.news limit:8 %}
+			{% for post in site.categories.news limit:6 %}
 			
 				{% for member in site.categories.team %}
 					{% if member.title == post.author %}
@@ -157,7 +159,7 @@ categories:
 		</div>
 		<div class="bigspacer"></div>		
 	</div>
--->
+
 </div>
 
 <div class="bigspacer"></div>
@@ -178,4 +180,4 @@ categories:
 	</li>
 
 </ul>
--->
+
