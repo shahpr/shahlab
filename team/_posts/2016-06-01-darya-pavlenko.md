@@ -10,6 +10,7 @@ scholar:
 image: /images/team/darya-pavlenko.jpg
 cv: 
 status: alumni
+year: 2016
 ---
 
 I am currently a senior at Rutgers majoring in Genetics and Psychology. I am originally from Kiev, Ukraine but have spent most of my life in New Jersey. I graduated from Cherry Hill East High School in 2013. 

@@ -1,16 +1,16 @@
 ---
 layout: member
-title: Srividya Venkatramanan
+title: Sukanya Das
 position: Graduate Rotation Student
-handle: svenkat
-email: srividya.venkat@rutgers.edu 
+handle: sdas
+email: sd882@gsbs.rutgers.edu 
 twitter: 
 github: 
 scholar: 
-image: /images/team/srividya-venkat.jpg
-cv: /pdfs/team/srividya-venkat-cv.pdf
-status: alumni
-year: 2016
+image: /images/team/sukanya-das.jpg
+cv: /pdfs/team/sukanya-das-cv.pdf
+status: 
+year:
 ---
 
 I am a first year student in the Molecular Biosciences PhD program. 

@@ -36,5 +36,6 @@ exclude:
   - "*.nex"
   - "Gemfile"
   - "Gemfile.lock"
+  - "s3*"
   
 projects:

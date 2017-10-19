@@ -32,22 +32,39 @@ categories:
         </div>
     <div class="bigspacer"></div>
 
-{% for member in site.categories.team reversed %}
+{% for member in site.categories.team %}
     {% if member.status == "alumni" %}
-    {% cycle 'add rows': '<div class="row">', nil, nil %}
+    	{% cycle 'add rows': '<div class="row">', nil, nil, nil %}
 		<div class="col-md-4 memberbox">
 			<div class="media">
-  				<a class="pull-left" href="{{ member.url }}">
+  				<a class="pull-left">
     				<img width=170 class="media-object" src="{{ member.image }}">
   				</a>
  			 	<div class="media-body">
-    				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				<div class="head media-heading">{{ member.title }}</div>
+    			<!--	<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div> -->
     				<p class="note">{{ member.position }}</p>
   				</div>
 			</div>
 			<div class="bigspacer"></div>
 			<div class="bigspacer"></div>			
-        </div>	  
-    {% cycle 'close rows': nil, nil, '</div>' %}
+        		</div>	  
+    	{% cycle 'close rows': nil, nil, nil, '</div>' %}
     {% endif %}
 {% endfor %}
+
+
+<!--
+{% for member in site.categories.team reversed %}
+    {% if member.status == "alumni" %}
+        {% cycle 'add rows': '<div class="row">' %}
+ 			 	<div class="media-body">
+    				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title}}</a>
+    				<a href="{{ member.url }}" class="note">{{ member.position }}</a>
+                    <a href="{{ member.url }}" class="note">({{ member.year}})</a>
+                    </div>
+  				</div>
+        {% cycle 'close rows':'</div>' %}
+    {% endif %}
+{% endfor %}
+-->

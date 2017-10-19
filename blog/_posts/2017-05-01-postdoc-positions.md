@@ -9,10 +9,7 @@ image:
 #### We are looking for a brilliant, motivated, and adventurous individual to join the Shah Lab as postdoctoral researcher.
 
 ### What we do:
-We generate high-throughput genomic datasets and use computational models to study
-
-1. How patterns of gene expressions evolve and how various factors influence the dynamics of protein synthesis.
-2. How epistatic interactions between mutations affect protein evolution.
+We generate high-throughput genomic datasets and use computational models to study how patterns of gene expressions evolve and how various factors influence the dynamics of protein synthesis.
 
 ### What will you get to do:
 We are not looking for someone to work on specific projects ongoing in the lab. Rather,
