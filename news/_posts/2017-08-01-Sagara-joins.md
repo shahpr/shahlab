@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sagara joins Shah Lab as a research assistant.
+title: Sagara joins Shah Lab as a research assistant
 link: 
 author: Premal Shah
 image: 

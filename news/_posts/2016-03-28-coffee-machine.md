@@ -6,7 +6,7 @@ author: Premal Shah
 image: 
 ---
 
-Our latest and greatest coffee machine - [Gaggia Anima Prestige](http://www.gaggia-usa.com/machines/Gaggia-Anima-Prestige-Super-Automatic-Espresso-Machine/id/17900) is here. 
+Our latest and greatest coffee machine - [Gaggia Anima Prestige](https://www.gaggia-usa.com/gaggia-anima-prestige-super-automatic-espresso-machine-0) is here.
 
 <div class="bigspacer"></div>
 
