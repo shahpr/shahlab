@@ -9,6 +9,7 @@ volume: 18
 issue: 461
 pages: 
 authors: "Carja O, Xing T, Wallace EWJ, Plotkin JB, and Shah P."
+lab: "Shah txing"
 image: /images/papers/carja-riboviz.png
 redirect_from: 
 fulltext: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1873-8 

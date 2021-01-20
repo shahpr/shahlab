@@ -9,6 +9,7 @@ volume: 294
 issue: 14
 pages: 5508-5520
 authors: "Dierschke SK, Miller WP, Favate JS, Shah P, Kawasawa YI, Salzberg AC, Kimball SR, Jefferson LS, and Dennis MD"
+lab: "Shah jfav"
 image: /images/papers/dierschke-oglcnac.png
 redirect_from: 
 fulltext: http://www.jbc.org/content/294/14/5508

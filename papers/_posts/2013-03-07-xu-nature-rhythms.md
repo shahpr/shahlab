@@ -9,6 +9,7 @@ volume: 495
 issue: 
 pages: 116-120
 authors: "Xu Y, Ma P, Shah P, Rokas A, Liu Y, and Johnson CH."
+lab: "Shah"
 image: /images/papers/xu-rhythm.png
 redirect_from: 
 fulltext: 

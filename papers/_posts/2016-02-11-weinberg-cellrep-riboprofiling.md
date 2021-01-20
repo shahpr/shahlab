@@ -9,6 +9,7 @@ volume: 14
 issue: 7
 pages: 1787-1799
 authors: "Weinberg DE*, Shah P*, Eichhorn SW, Hussmann JA, Plotkin JB, and Bartel DP."
+lab: "Shah"
 image: /images/papers/weinberg-translation.png
 redirect_from: 
 fulltext: 

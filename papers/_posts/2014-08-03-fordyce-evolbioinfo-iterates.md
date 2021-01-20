@@ -8,7 +8,8 @@ journal: Evol Bioinfo
 volume: 10
 issue: 
 pages: 127-130
-authors: Fordyce JA, Shah P, and Fitzpatrick BM.
+authors: "Fordyce JA, Shah P, and Fitzpatrick BM."
+lab: "Shah"
 image: /images/papers/fordyce-iterates.png
 redirect_from: 
 fulltext: 

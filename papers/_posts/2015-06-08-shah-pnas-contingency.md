@@ -9,6 +9,7 @@ volume: 112
 issue: 
 pages: E3226-E3235
 authors: "Shah P<sup>*</sup>, McCandlish DM<sup>*</sup>, and Plotkin JB."
+lab: "Shah"
 image: /images/papers/shah-epistasis.png
 redirect_from: 
 fulltext: 

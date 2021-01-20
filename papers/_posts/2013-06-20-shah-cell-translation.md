@@ -9,6 +9,7 @@ volume: 153
 issue: 7
 pages: 1589-1601
 authors: "Shah P, Ding Y, Niemczyk M, Kudla G, and Plotkin JB."
+lab: "Shah"
 image: /images/papers/shah-smopt.png
 redirect_from: 
 fulltext: 

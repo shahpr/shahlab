@@ -2,7 +2,7 @@ name: Shah Lab
 description: Quantitative biology group at Rutgers
 url: http://theshahlab.org
 
-markdown: redcarpet
+markdown: kramdown
 permalink: /:categories/:title/
 future: true
 

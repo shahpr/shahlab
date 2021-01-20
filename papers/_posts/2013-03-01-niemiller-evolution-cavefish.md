@@ -9,6 +9,7 @@ volume: 67
 issue: 3
 pages: 732-748
 authors: "Niemiller ML, Fitzpatrick BM, Shah P, Schmitz L, and Near TJ."
+lab: "Shah"
 image: /images/papers/niemiller-cavefish.jpg
 redirect_from: 
 fulltext: 

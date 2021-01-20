@@ -9,6 +9,7 @@ volume: 203
 issue: 3
 pages: 1335-1351
 authors: "McCandlish DM, Shah P, and Plotkin JB."
+lab: "Shah"
 image: /images/papers/mccandlish-reversion.png
 redirect_from: 
 fulltext: 

@@ -9,6 +9,7 @@ volume: 5
 issue: 7
 pages: e11308
 authors: "Shah P and Gilchrist MA."
+lab: "Shah"
 image: /images/papers/shah-thermometer.png
 redirect_from: 
 fulltext: 

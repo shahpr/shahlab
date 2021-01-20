@@ -9,6 +9,7 @@ volume: 32
 issue: 
 pages: 1020-1034
 authors: "Chatterji P, Hamilton KE, Liang S, Andres SF, Wijeratne HRS, Mizuno R, Simon LA, Hicks PD, Foley SW, Pitarresi JR, Klein-Szanto AJ, Mah AT, Landeghem LV, Gregory BD, Lengner CJ, Madison BB, Shah P, and Rustgi AK"
+lab: "Shah sliang swijeratne"
 image: /images/papers/chatterji-lin28b.png
 redirect_from: 
 fulltext: http://genesdev.cshlp.org/content/32/15-16/1020 

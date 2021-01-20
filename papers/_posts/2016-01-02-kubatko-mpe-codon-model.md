@@ -9,6 +9,7 @@ volume: 94
 issue: A
 pages: 290-297
 authors: "Kubatko L, Shah P, Herbei R, and Gilchrist MA."
+lab: "Shah"
 image: /images/papers/kubatko-nse.png
 redirect_from: 
 fulltext: 

@@ -9,6 +9,7 @@ volume: 497
 issue: 
 pages: E1-E2
 authors: "McCandlish DM, Rajon E, Shah P, Ding Y, and Plotkin JB."
+lab: "Shah"
 image: /images/papers/mccandlish-dnds.png
 redirect_from: 
 fulltext: 

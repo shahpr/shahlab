@@ -9,6 +9,7 @@ volume: 4
 issue: 10
 pages: 1046-1053
 authors: "Ding Y, Shah P, and Plotkin JB."
+lab: "Shah"
 image: /images/papers/ding-fe.png
 redirect_from: 
 fulltext: 

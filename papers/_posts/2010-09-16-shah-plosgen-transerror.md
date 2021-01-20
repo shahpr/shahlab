@@ -9,6 +9,7 @@ volume: 6
 issue: 9
 pages: e1001128
 authors: "Shah P and Gilchrist MA."
+lab: "Shah"
 image: /images/papers/shah-cub-tradeoff.png
 redirect_from: 
 fulltext: 

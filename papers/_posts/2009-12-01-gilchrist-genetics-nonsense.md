@@ -9,6 +9,7 @@ volume: 183
 issue: 4
 pages: 1493-1505
 authors: "Gilchrist MA, Shah P, and Zaretzki R."
+lab: "Shah"
 image: /images/papers/gilchrist-nse.png
 redirect_from: 
 fulltext: 

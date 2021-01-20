@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Dynamics of protein translation
+title: Dynamics of protein synthesis
 author: Premal Shah
 image: /images/research/translation.png
 tag: SMoPT
