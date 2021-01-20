@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 10.1101/2020.12.31.424996v1
 authors: "Morishita Y, Fuentes I, Favate J, Zushida K, Nishi A, Hevi C, Goldsmith N, Buyske S, Sillivan SE, Miller CA, Kandel ER, Uchida S, Shah P, and Shumyastsky GP."
-lab: "Shah"
+lab: "Shah jfav"
 image: /images/papers/morishita-grp.png
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/2020.12.31.424996v1
@@ -25,9 +25,9 @@ dryad_doi:
 altmetric_id: 
 figshare: 
 category: paper
-published: false
+published: true
 embargo: false
-peerreview: false
+peerreview: true
 review: false
 tags: grp mouse transcription dopamnie
 ---

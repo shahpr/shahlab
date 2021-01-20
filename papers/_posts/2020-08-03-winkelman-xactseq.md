@@ -16,7 +16,7 @@ fulltext: https://www.sciencedirect.com/science/article/pii/S109727652030472X
 pdf: /pdfs/papers/Winkelman_MolCell_2020.pdf
 pdflink: https://reader.elsevier.com/reader/sd/pii/S109727652030472X?token=0C215F5792B2940CF4A0227CC1D88DAC15C219FC4FB33412F76B4705B6A9764837CF0E7C17A4835CB2D749F43AD36629
 github: https://github.com/shahlab/XACT-seq
-github_n:
+github_n: XACT-seq
 pmid: 32750314
 pmcid: PMC7484426
 f1000: 

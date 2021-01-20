@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 # jekyll
-gem "jekyll", "4.2.0"
-gem "kramdown"
+gem "jekyll", "3.9.0"
+gem "redcarpet"
 
 # compiling less
 gem 'therubyracer'

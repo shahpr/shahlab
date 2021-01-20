@@ -9,10 +9,8 @@ github:
 scholar: 
 status: alumni
 image: /images/team/kirti-gupta.jpg
-cv: /pdfs/team/kirti-gupta-cv.pdf
+cv: 
 ---
-
-I am a postdoctoral associate at Rutgers University in the Department of Genetics.
 
 I received my undergraduate degree in Life Sciences from Delhi University, India. I then did my masters in Biosciences from Jamia Millia Islamia where I worked on the characterization of Chikungunya Virus strain from clinical samples in Dr. Shama Parveen’s lab. The aim of the study was to look for novel genetic changes in the isolates by sequence analysis.
 

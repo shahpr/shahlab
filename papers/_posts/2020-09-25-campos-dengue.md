@@ -16,7 +16,7 @@ fulltext: https://academic.oup.com/nar/article/48/17/9872/5901967
 pdf: /pdfs/papers/Campos_NAR_2020.pdf
 pdflink: https://academic.oup.com/nar/article-pdf/48/17/9872/33787071/gkaa717.pdf
 github: https://github.com/shahlab/Dengue_RPLP1-P2
-github_n:
+github_n: Dengue_RPLP1-P2
 pmid: 32890404
 pmcid: PMC7515724
 f1000: 

@@ -4,19 +4,19 @@ title: "The landscape of transcriptional and translational changes over 22 years
 year: "2021"
 ref: "Favate <i>et al. bioRxiv</i> 2021"
 nickname: ltee_riboseq
-journal: "biRxiv"
+journal: "bioRxiv"
 volume: 
 issue: 
-pages: 
+pages: 10.1101/2021.01.12.426406v1
 authors: "Favate JS, Liang S, Yadavalli SS, and Shah P."
-lab: "Shah"
+lab: "Shah jfav sliang"
 image: /images/papers/favate-ltee.png
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/2021.01.12.426406v1
 pdf: /pdfs/papers/Favate_bioRxiv_2021.pdf
 pdflink: 
 github: https://github.com/shahlab/LTEE-gene-expression
-github_n:
+github_n: LTEE-gene-expression
 pmid: 
 pmcid: 
 f1000: 
@@ -25,9 +25,9 @@ dryad_doi:
 altmetric_id: 
 figshare: 
 category: paper
-published: false
+published: true
 embargo: false
-peerreview: false
+peerreview: true
 review: false
 tags: ecoli riboseq ltee 
 ---

@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar: 
 image: /images/team/alex-salibi.jpg
-cv: /pdfs/team/alex-salibi-cv.pdf
+cv: 
 status: alumni
 year:
 ---

@@ -9,10 +9,8 @@ github:
 status: alumni
 scholar: VaXYKpkAAAAJ
 image: /images/team/shun-liang.jpg
-cv: /pdfs/team/shun-liang-cv.pdf
+cv: 
 ---
-
-I was a lab manager at Rutgers University in the Departmant of Genetics.
 
 I received my undergraduate degree in Medicine from [Anhui University of Chinese Medicine][1]. Following graduation, I became a teacher at the Anhui College of Traditional Chinese Medicine.
 
